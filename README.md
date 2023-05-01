@@ -6,11 +6,11 @@ My name is Ella, and I'm a recent graduate with a BSc in Computer Science from t
 Here are some of the repositories you can find in my page:</br>
 💥[Driver Awareness Monitoring App](https://github.com/Ella475/Driver-Awareness-Monitoring) (Android app / Java / MySQL / Python / Flask)
 
-💥[Monte Carlo Tree Search Research project]() (ML / Heuristic Approach / Java)
+💥[Monte Carlo Tree Search Research project](https://github.com/Ella475/PacmanAgents.git) (ML / Heuristic Approach / Java)
 
 💥[Hidden Stratification Misprediction Reaserch Project](https://github.com/Ella475/Hidden-Stratification-Misprediction.git) (ML / PyTorch)
 
-💥[Deep Learning project]() (Deep Learning / GAN / Python)
+💥[Image Inpainting Using GAN](https://github.com/Ella475/image-inpainting-using-gan.git) (Deep Learning / GAN / Python)
 
 💥[Anomaly Detection WebApp](https://github.com/Ella475/anomaly-detection-web-app.git) (Javascript)
 
