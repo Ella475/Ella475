@@ -1,9 +1,9 @@
 
-# Hello, and welcome to my GitHub profile!
+## Hello, and welcome to my GitHub profile!
 
-## My name is Ella, and I'm a recent graduate with a BSc in Computer Science from the Illanot program for excellent students, at Bar-Ilan university.
+**My name is Ella, and I'm a recent graduate with a BSc in Computer Science from the Illanot program for excellent students, at Bar-Ilan university.**
 
-**Here are some of the repositories you can find in my page: **</br>
+**Here are some of the repositories you can find in my page:**</br>
 
 💥[Driver Awareness Monitoring App](https://github.com/Ella475/Driver-Awareness-Monitoring) (Android app / Java / MySQL / Python / Flask)
 
