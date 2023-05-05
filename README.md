@@ -8,11 +8,11 @@ at Bar-Ilan university.**
 
 💥[Driver Awareness Monitoring App](https://github.com/Ella475/Driver-Awareness-Monitoring) (Android app / Java / MySQL / Python / Flask)
 
-💥[Monte Carlo Tree Search Research project](https://github.com/Ella475/PacmanAgents.git) (ML / Heuristic Approach / Java)
+💥[Image Inpainting Using GAN](https://github.com/Ella475/image-inpainting-using-gan.git) (Deep Learning / GAN / Python)
 
 💥[Hidden Stratification Misprediction Reaserch Project](https://github.com/Ella475/Hidden-Stratification-Misprediction.git) (ML / PyTorch)
 
-💥[Image Inpainting Using GAN](https://github.com/Ella475/image-inpainting-using-gan.git) (Deep Learning / GAN / Python)
+💥[Monte Carlo Tree Search Research project](https://github.com/Ella475/PacmanAgents.git) (ML / Heuristic Approach / Java)
 
 💥[Anomaly Detection WebApp](https://github.com/Ella475/anomaly-detection-web-app.git) (Javascript)
 
