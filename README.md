@@ -10,7 +10,7 @@ at Bar-Ilan university.**
 
 💥[Image Inpainting Using GAN](https://github.com/Ella475/image-inpainting-using-gan.git) (Deep Learning / GAN / Python)
 
-💥[Hidden Stratification Misprediction Reaserch Project](https://github.com/Ella475/Hidden-Stratification-Misprediction.git) (ML / PyTorch)
+💥[Hidden Stratification Misprediction Research Project](https://github.com/Ella475/Hidden-Stratification-Misprediction.git) (ML / PyTorch)
 
 💥[Monte Carlo Tree Search Research project](https://github.com/Ella475/PacmanAgents.git) (ML / Heuristic Approach / Java)
 
